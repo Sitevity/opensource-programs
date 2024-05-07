@@ -5,6 +5,7 @@
 </a>
 
 
+
 | Name                                    | Stipend | Timeline            | Start Date(s)                         | End Date(s)                     | Restrictions
 |-----------------------------------------|-------------|-----------------|------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
 | [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |Jan 31 2022 <br/> May 31 2022 <br/> June 20 2022 <br/> Sep 19 2022 | Apr 22 2022 <br/> Aug 19 2022 <br/> Sep 09 2022 <br/> Dec 09 2022 | No restriction
